@@ -10,9 +10,8 @@ function BinarioADecimal(num) {
 
       decimal = (num[i] * (2 ** it));
 
-      
-
       suma = suma += decimal;
+      
       it += 1;
    }
 
